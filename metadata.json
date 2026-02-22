@@ -1,0 +1,5 @@
+{
+  "name": "HUB SOBERANO",
+  "description": "Sistema de gestão de maletas de semijoias com OCR e integração WhatsApp.",
+  "requestFramePermissions": ["camera"]
+}
